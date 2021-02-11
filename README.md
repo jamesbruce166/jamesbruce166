@@ -16,7 +16,7 @@ After amost a decade in tech - I have acquired a comfortable set of skills, such
 
 <h3> Languages </h3>
 <br>
-<center>
+<div align="center">
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -36,13 +36,13 @@ After amost a decade in tech - I have acquired a comfortable set of skills, such
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-</center>
+</div>
 <br>
 
 <h3> Frameworks </h3>
 <br>
 
-<center>
+<div align="center">
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -58,13 +58,13 @@ After amost a decade in tech - I have acquired a comfortable set of skills, such
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 
 <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
-</center>
+</div>
 <br>
 
 <h3> Tools </h3>
 <br>
 
-<center>
+<div align="center">
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
@@ -80,13 +80,13 @@ After amost a decade in tech - I have acquired a comfortable set of skills, such
 <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 
 <img alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
-</center>
+</div>
 <br>
 
 <h3> Other </h3>
 <br>
 
-<center>
+<div align="center">
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -106,7 +106,7 @@ After amost a decade in tech - I have acquired a comfortable set of skills, such
 <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 <br>
 and more... 😄
-</center>
+</div>
 
 <h2> 📝 Education </h2>
 I started my tech journey in 2012 during my college years for Electrical & Electronic Engineering. In 2014, I followed this course into University, where in 2018, I graduated with a Masters (Meng) in engineering.
