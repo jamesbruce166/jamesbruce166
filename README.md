@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<center> 
+<div align="center"> 
 <h1> WELCOME TO MY PROFILE! 🧑🏻‍💻</h1> 
 <h3> SOFTWARE ENGINEER | FOUNDER | FULL STACK</h3>
 <br>
 
 I pride myself in striving for operational excellence and creating a bespoke customer experience. Having accumulated over 2 years industry experience in Software Engineering, a Masters degree in Electronic Engineering, and founding a mobile application startup - I have truly found a passion for the industry.
 
-</center>
+</div>
 <br>
 
 ## 👨🏻‍🎓 My Skills
