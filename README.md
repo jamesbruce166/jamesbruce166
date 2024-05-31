@@ -12,7 +12,7 @@ I pride myself in striving for operational excellence and creating a bespoke cus
 
 ## 👨🏻‍🎓 My Skills
 
-After 7 years in tech - I have acquired a comfortable set of skills, such as the following:
+After 10 years in tech - I have acquired a comfortable set of skills, such as the following:
 
 <h3> Languages </h3>
 <br>
