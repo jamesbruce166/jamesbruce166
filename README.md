@@ -5,14 +5,14 @@
 <h3> SOFTWARE ENGINEER | FOUNDER | FULL STACK</h3>
 <br>
 
-I pride myself in striving for operational excellence and creating a bespoke customer experience. Having accumulated 3+ years industry experience in Software Engineering, a Masters degree in Electronic Engineering, and founding a mobile application startup - I have truly found a passion for the industry.
+I pride myself in striving for operational excellence and creating a bespoke customer experience. Having accumulated 5+ years industry experience in Software Engineering, a Masters degree in Electronic Engineering, and founding a mobile application startup - I have truly found a passion for the industry.
 
 </div>
 <br>
 
 ## 👨🏻‍🎓 My Skills
 
-After 10 years in tech - I have acquired a comfortable set of skills, such as the following:
+After 10+ total years in tech - I have acquired a comfortable set of skills, such as the following:
 
 <h3> Languages </h3>
 <br>
