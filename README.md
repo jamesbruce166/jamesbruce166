@@ -12,7 +12,7 @@ I pride myself in striving for operational excellence and creating a bespoke cus
 
 ## 👨🏻‍🎓 My Skills
 
-After 10+ total years in tech - I have acquired a comfortable set of skills, such as the following:
+After 10+ total years in tech - I have developed skills in multple languages and frameworks:
 
 <h3> Languages </h3>
 <br>
@@ -28,8 +28,6 @@ After 10+ total years in tech - I have acquired a comfortable set of skills, suc
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </div>
@@ -48,12 +46,6 @@ After 10+ total years in tech - I have acquired a comfortable set of skills, suc
 <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 
 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-
-<img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-
-<img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-
-<img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
 </div>
 <br>
 
@@ -90,12 +82,6 @@ After 10+ total years in tech - I have acquired a comfortable set of skills, suc
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img alt="Ansible" src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
-
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-
-<img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 <br>
 and more... 😄
 </div>
@@ -107,13 +93,7 @@ I started my tech journey in 2012 during my college years for Electrical & Elect
 It was during my years at university I gained a passion for Software Engineering - starting out with <strong>C & C++</strong>. During my final few years at University, I co-founded and built a mobile application startup, and I have been involved in full stack solutions ever since. 
 <br>
 <br>
-My career is currently residing in the startup world and a full time role as a Software Engineer in Cyber Security. I have taken a range of courses from <strong>MongoDB, Swift, and React.js</strong>
+My career is currently residing in the startup world and a full time role as a Software Engineer I have taken a range of courses from <strong>MongoDB, Swift, and React.js</strong>
 <br>
 <br>
-<h2> 📫 How To Reach Me </h2>
 
-Contact me regarding any of the tools above, or for a general chat! the best way to contact me is through LinkedIn 🙂
-
-<a href="https://www.linkedin.com/in/james-erringhambruce/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
